@@ -16,6 +16,7 @@
 >   &nbsp;&nbsp;  4(c) Square Root Transformation <br>
 >   &nbsp;&nbsp;  4(d) Exponential 
 
+* Comparison of Scaling :
 ![image](https://user-images.githubusercontent.com/64760966/129831912-61b126dc-f2a7-4e94-a38e-c411eb96e180.png)
 
 <hr>
