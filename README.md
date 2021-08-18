@@ -5,6 +5,20 @@
 ![image](https://user-images.githubusercontent.com/64760966/129831793-05245861-5ebc-4d19-a0a1-3576044c0932.png)
 <hr>
 
+### Types Of Transformation: <br>
+
+>1. Standardization (Standard Scaler) <br>
+>2. Scaling to Minimum And Maximum values-(Normalization)-( MinMax Scaler) <br>
+>3. Scaling To Median And Quantiles(Robust Scaler) <br>
+>4. Guassian Transformations: (When data is not in normal/gaussian distribution) <br>
+>   &nbsp;&nbsp;  4(a) Logarithmic Transformation <br>
+>   &nbsp;&nbsp;  4(b) Reciprocal Trnasformation <br>
+>   &nbsp;&nbsp;  4(c) Square Root Transformation <br>
+>   &nbsp;&nbsp;  4(d) Exponential 
+
+![image](https://user-images.githubusercontent.com/64760966/129831912-61b126dc-f2a7-4e94-a38e-c411eb96e180.png)
+
+<hr>
 ### When We use Feature scaling ? 
 
 * Gradient Descent Based Algorithms
@@ -18,14 +32,3 @@ Distance algorithms like KNN, K-means, and SVM are most affected by the        r
 * Tree-based algorithms
 Tree-based algorithms are fairly insensitive to the scale of the features. A decision tree is only splitting a node based on a single feature. The decision tree splits a node on a feature that increases the homogeneity of the node. This split on a feature is not influenced by other features. Hence, there is virtually no effect of the remaining features on the split. This is what makes them invariant to the scale of the features. Some ML algorithms such as Decision trees, Random Forest, AdaBoost, Naïve Bayes, etc.
 <hr>
-
-### Types Of Transformation: <br>
-
->1. Standardization (Standard Scaler) <br>
->2. Scaling to Minimum And Maximum values-(Normalization)-( MinMax Scaler) <br>
->3. Scaling To Median And Quantiles(Robust Scaler) <br>
->4. Guassian Transformations: (When data is not in normal/gaussian distribution) <br>
->   &nbsp;&nbsp;  4(a) Logarithmic Transformation <br>
->   &nbsp;&nbsp;  4(b) Reciprocal Trnasformation <br>
->   &nbsp;&nbsp;  4(c) Square Root Transformation <br>
->   &nbsp;&nbsp;  4(d) Exponential 
