@@ -1,7 +1,7 @@
 # Scaling-and-Transformation-Techniques-Feature-Engineering
 
 * Feature scaling is a method used to normalize the range of independent variables or features of data .Therefore, the range of all features should be normalized so that each feature contributes approximately proportionately to the final distance. 
-<hr>
+
 
 ### When We use Feature scaling ? 
 
