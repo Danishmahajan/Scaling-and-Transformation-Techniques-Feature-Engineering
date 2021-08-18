@@ -4,8 +4,8 @@
 
 ### When We use Feature scaling ? 
 
-    * Gradient Descent Based Algorithms
-    Machine learning algorithms like linear regression, logistic regression, neural  network, etc.If an algorithm uses gradient descent, then the difference in ranges of features will cause different step sizes for each feature. To ensure that the gradient descent moves smoothly towards the minima and that the steps for gradient descent are updated at the same rate for all the features, we scale the data before feeding it to the model. Having features on a similar scale will help the gradient descent converge more quickly towards the minima.
+* <u>Gradient Descent Based Algorithms</u>
+Machine learning algorithms like linear regression, logistic regression, neural  network, etc.If an algorithm uses gradient descent, then the difference in ranges of features will cause different step sizes for each feature. To ensure that the gradient descent moves smoothly towards the minima and that the steps for gradient descent are updated at the same rate for all the features, we scale the data before feeding it to the model. Having features on a similar scale will help the gradient descent converge more quickly towards the minima.
 
 * Distance Based Algorithms :
 Distance algorithms like KNN, K-means, and SVM are most affected by the        range of features. This is because behind the scenes they are using distances between data points to determine their similarity.
